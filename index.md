@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pegase Pages
 
 You can use the [editor on GitHub](https://github.com/thierryH91200/pegasse.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
