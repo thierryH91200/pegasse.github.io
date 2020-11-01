@@ -1,8 +1,11 @@
-## Welcome to Pegase Pages
+Un compagnon pour gérer vos finances
+Version 6.0.40
 
-You can use the [editor on GitHub](https://github.com/thierryH91200/pegasse.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+iCompta est une application permettant de gérer vos comptes avec une grande simplicité. Conservez la trace de vos revenus et dépenses, prévoyez vos prochaines factures, respectez votre budget et découvrez enfin où part tout votre argent grâce à de magnifiques graphiques.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+iCompta 6 sur Mac nécessite macOS 10.9 pour fonctionner et est pleinement compatible avec la dernière version du système macOS 10.15. Si vous n'avez pas macOS 10.9 vous pouvez installer une
+
+
 
 ### Markdown
 
@@ -28,9 +31,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thierryH91200/pegasse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
